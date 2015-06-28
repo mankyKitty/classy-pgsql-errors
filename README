@@ -1,0 +1,14 @@
+Classy Instances for PostgreSQL Simple Exceptions.
+==================================================
+
+This is just a collection of hopefully useful typeclasses and optics for working
+with the `postgresql-simple` library.
+
+It is designed around a specific technique of working with datatypes based on
+the `Optics'` typeclass within `lens` and all of the delicious flexibility that
+it offers. Yay.
+
+Very much alpha grade software, probably highly opinionated and missing things,
+or just flat out wrong. Maybe... *ahem*
+
+errr, enjoy?
